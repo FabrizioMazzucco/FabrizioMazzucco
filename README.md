@@ -1,7 +1,5 @@
 ### Hola 👋, soy Fabrizio Mazzucco
 
-<!--
-**FabrizioMazzucco/FabrizioMazzucco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Un apasionado Data Scientist de Argentina
 
@@ -11,4 +9,4 @@ Un apasionado Data Scientist de Argentina
 - 💼 Estoy abierto a oportunidades laborales relacionadas con la ciencia de datos.
 - 👾 Juego videojuegos.
 - 😻 Me encantan los gatos.
--->
+
