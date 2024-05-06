@@ -1,7 +1,7 @@
 ### Hola 👋, soy Fabrizio Mazzucco
 
 
-Un apasionado Data Scientist de Argentina
+Un apasionado Data Engineer de Argentina
 
 - 🔭 Actualmente estoy realizando proyectos para crecer profesionalmente.
 - 🌱 Estoy aprendiendo sobre Python, Data Science y todas las tecnologías que se me presenten.
